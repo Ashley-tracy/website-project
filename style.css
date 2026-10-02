@@ -1,4 +1,4 @@
-*{
+/**{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -25,7 +25,55 @@
 .nav-bar{
     color: white;
     gap: 2rem;
+}*/
+
+.header{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: black;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
 }
+
+.Logo{
+    color: white;
+    font-size: 4rem;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: none;
+    padding-left: 1rem;
+}
+
+.nav-bar{
+    display: flex;
+    flex-wrap: wrap;
+    flex: 1;
+    justify-content: flex-end;
+}
+.nav-links{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3rem;
+    text-decoration: none;
+    padding-right: 1rem;
+}
+
+.nav-links a{
+    text-decoration: none;
+    color: white;
+    font-size: 1.5rem;
+    
+}
+
+.main{
+    padding-top: 4rem;
+}
+
+
 
 
 
