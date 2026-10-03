@@ -233,7 +233,11 @@ footer[section="Contacts"] a:hover {
     background: linear-gradient(to bottom, #818cf8, #ff00dd);
 }
 
-
+.copyright{
+    font-size: 300;
+    margin-top: 2rem;
+    color: white;
+}
 
 
 
