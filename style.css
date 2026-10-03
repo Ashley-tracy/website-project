@@ -73,6 +73,146 @@
     padding-top: 4rem;
 }
 
+#Testimonials-list {
+    list-style: none;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.5rem;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.testimonial:hover{
+    background-color: black;
+    color: white;
+    
+}
+
+.testimonial {
+    background: pink;
+    border: 1px solid #e5e7eb;
+    border-radius: 12px;
+    padding: 1.5rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.testimonial .quote {
+    font-style: italic;
+    color: white;
+    line-height: 1.6;
+    margin: 0 0 1rem;
+}
+
+.testimonial .author {
+    font-weight: 600;
+    color: #4f46e5;
+    font-size: 0.9rem;
+    text-align: right;
+}
+
+#Projects-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1.5rem;
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 2rem 1rem;
+}
+
+.project-card {
+    background: pink;
+    border: 1px solid #e5e7eb;
+    border-radius: 12px;
+    padding: 1.5rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+}
+
+.project-card:hover{
+    background-color: black;
+    color: white;
+}
+
+.project-card h3 {
+    margin: 0;
+    color: #111827;
+    font-size: 1.15rem;
+}
+
+.project-card p {
+    margin: 0;
+    color: #4b5563;
+    line-height: 1.6;
+    font-size: 0.95rem;
+}
+
+
+.project-tools {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-top: 0.5rem;
+}
+
+.tool-tag {
+    background: #eef2ff;
+    color: #3730a3;
+    padding: 0.25rem 0.7rem;
+    border-radius: 999px;
+    font-size: 0.8rem;
+    font-weight: 500;
+}
+
+
+footer[section="Contacts"] {
+    background: #111827;
+    color: #e5e7eb;
+    padding: 3rem 1.5rem;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+footer[section="Contacts"] h1 {
+    color: #fff;
+    margin-bottom: 2rem;
+}
+
+footer[section="Contacts"] h3 {
+    color: #9ca3af;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 0.85rem;
+    margin: 1.5rem 0 0.5rem;
+}
+
+
+footer[section="Contacts"] ul {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 1rem;
+}
+
+footer[section="Contacts"] li {
+    margin: 0.4rem 0;
+    color:#818cf8;
+}
+
+footer[section="Contacts"] a {
+    color: #818cf8;
+    text-decoration: none;
+    word-break: break-all;
+}
+
+footer[section="Contacts"] a:hover {
+    text-decoration: underline;
+}
+
 
 
 
