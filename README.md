@@ -36,3 +36,4 @@ This is a portfolio website project showcasing who we are, our skills, projects 
  # Lessons 
  - How JavaScript can be used to render into HTML 
  - How CSS can manipulate the appearance of a webpage
+ - How to write a README.md file
