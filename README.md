@@ -22,3 +22,8 @@ This is a portfolio website project showcasing who we are, our skills, projects 
 - JavaScript: storing skills array and projects array objects
 - Github: tracking changes and hosting on github pages
 - Font-awesome; used for styling icons
+
+# How to access locally
+- Clone or download this repository to your computer
+- Open the project folder
+- Double click index.html to open it in your browser
