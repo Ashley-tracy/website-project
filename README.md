@@ -38,3 +38,4 @@ This is a portfolio website project showcasing who we are, our skills, projects 
  - How CSS can manipulate the appearance of a webpage
  - How to write a README.md file
  - Learnt how to do string interpolation
+ - Learnt the importance of planning your structure before writing code 
