@@ -15,3 +15,10 @@ This is a portfolio website project showcasing who we are, our skills, projects 
 - An hover effect on the testimonial cards
 - An hover effect on the project cards 
 - A very colourful scroll bar 
+
+# Technologies used
+- HTML: developing the website structure
+- CSS: styling the website
+- JavaScript: storing skills array and projects array objects
+- Github: tracking changes and hosting on github pages
+- Font-awesome; used for styling icons
