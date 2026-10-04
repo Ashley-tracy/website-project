@@ -34,4 +34,4 @@ This is a portfolio website project showcasing who we are, our skills, projects 
  - Open index.html and click go live on the bottom right.
 
  # Lessons 
- 
+ - How JavaScript can be used to render into HTML 
