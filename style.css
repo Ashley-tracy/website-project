@@ -18,6 +18,7 @@
     font-weight: 600;
     border: 2px solid transparent;
     transition: all 0.3 ease;
+    border-radius: 2rem;
 }
 
 .header nav a:last-child:hover{
