@@ -64,6 +64,17 @@
     background-repeat: no-repeat;
 }
 
+#about-us{
+    color: green;
+    font-size: 2rem;
+}
+
+#us{
+    color: black;
+    font-size: 1.5rem;
+    font-style: italic;
+}
+
 #Testimonials-list {
     list-style: none;
     padding: 0;
@@ -175,7 +186,7 @@ footer[section="Contacts"] {
     padding: 3rem 1.5rem;
     text-align: center;
     font-family: sans-serif;
-    background-image: url(images/image.jpg);
+    
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
