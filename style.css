@@ -11,6 +11,20 @@
     z-index: 1000;
 }
 
+.header nav a:last-child {
+    background-color: #00ffaa;
+    color: white;
+    padding: 10px 22px;
+    font-weight: 600;
+    border: 2px solid transparent;
+    transition: all 0.3 ease;
+}
+
+.header nav a:last-child:hover{
+    background-color: transparent;
+    color: #00ffaa;
+}
+
 .Logo{
     color: #818cf8;
     font-size: 4rem;
