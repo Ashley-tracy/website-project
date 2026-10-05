@@ -58,19 +58,17 @@
 
 .main{
     padding-top: 4rem;
-    background-image: url(images/background.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
-
 #about-us{
     color: green;
     font-size: 2rem;
 }
 
 #us{
-    color:white;
+    color:black;
     font-size: 1.5rem;
     font-style: italic;
 }
