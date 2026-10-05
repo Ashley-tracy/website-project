@@ -46,7 +46,7 @@ let projects = [
 ];
 
 //Script for rendering testimonials
-const testimonialsListEl = document.getElementById("Testimonials-list");
+let testimonialsListEl = document.getElementById("Testimonials-list");
 
 testimonials.forEach(function (testimonial) {
   testimonialsListEl.innerHTML += `
