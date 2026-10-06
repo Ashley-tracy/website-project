@@ -24,11 +24,12 @@ This is a portfolio website project showcasing who we are, our skills, projects 
 - Font-awesome; used for styling icons
 
 # How to access locally
+-  Navigate into the project directory
 - Clone or download this repository to your computer
-- Open the project folder
-- Double click index.html to open it in your browser
+- Open the project folder that Git created
+- Double click the new project folder to open it,then the code files from there
 
-//Alternative using vs code 
+ or alternative using vs code 
  - Open the project folder in vs code 
  - Install the live server extension
  - Open index.html and click go live on the bottom right.
@@ -37,6 +38,6 @@ This is a portfolio website project showcasing who we are, our skills, projects 
  - How JavaScript can be used to render into HTML 
  - How CSS can manipulate the appearance of a webpage
  - How to write a README.md file
- - Learnt how to do string interpolation
+ - Learnt how to do string interpolation 
  - Learnt the importance of planning your structure before writing code 
  
